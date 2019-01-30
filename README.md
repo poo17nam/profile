@@ -1,3 +1,3 @@
-# devportfolio
+# profile
 
-A simple webpage to showcase my developer portfolio.
+A simple webpage to showcase my developer profile.
